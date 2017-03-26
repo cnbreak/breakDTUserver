@@ -1,0 +1,5 @@
+此目录为服务器端workerMan相关的代码
+
+config是配置文件的文件夹
+worker是你建立的各种Worker进程
+statement.php里必须引入所有的worker进程，方便start.php调用！
